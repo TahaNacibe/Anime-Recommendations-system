@@ -1,0 +1,11 @@
+kagglehub>=0.2.0
+numpy>=1.21.0
+pandas>=1.3.0
+matplotlib>=3.4.0
+scikit-learn>=1.0.0
+plotly>=5.0.0
+kneed>=0.8.0
+jikan4snek>=1.0.0
+asyncio
+pydantic
+fastapi
